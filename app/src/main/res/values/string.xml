@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Anjing_Kucing_Pedia</string>
+
+    //data hewan
+    <string name="buldog_nama">Bulldog</string>
+    <string name="buldog_asal">Inggris</string>
+    <string name="buldog_deskripsi">Anjing populer yang dikenal dengan badan yang gemuk berotot, wajah seperti kain kusut, dan hidung yang pesek</string>
+    <string name="husky_nama">Husky</string>
+    <string name="husky_asal">Alaska,Siberia,Finlandia (daerah bersalju)</string>
+    <string name="husky_deskripsi">Anjing jenis khusus yang awalnya digunakan untuk menarik kereta salju</string>
+    <string name="kintamani_nama">Kintamani</string>
+    <string name="kintamani_asal">Indonesia</string>
+    <string name="kintamani_deskripsi">Ras anjing asli pulau Bali</string>
+    <string name="samoyed_nama">Samoyed</string>
+    <string name="samoyed_asal">Rusia</string>
+    <string name="samoyed_deskripsi">Anjing yang berasal dari Siberia yang awalnya biasa digunakan untuk menjaga ternak oleh suku Samoyed</string>
+    <string name="shepherd_nama">Shepherd</string>
+    <string name="shepherd_asal">Jerman</string>
+    <string name="shepherd_deskripsi">Anjing pintar dan kuat, sekarang banyak digunakan sebagai anjing penjaga, pengawal, dan anjing polisi (K9)</string>
+    <string name="shiba_nama">Shiba</string>
+    <string name="shiba_asal">Jepang</string>
+    <string name="shiba_deskripsi">Anjing dari daerah Shiba ini gesit dan lincah sehingga awalnya banyak digunakan untuk berburu</string>
+
+    <string name="kecial_nama">kecial</string>
+    <string name="kecial_asal">Lombok</string>
+    <string name="kecial_deskripsi">kecial lombok merupakan salah satu genus alias marga dari keluarga Zosteropidae,memiliki ciri rambut yang halus dan memliki rambut seperti kacamata.</string>
+    <string name="kenari_nama">kenari</string>
+    <string name="kenari_asal">Francis"</string>
+    <string name="kenari_deskripsi">burung kenari memiliki suara yang merdu dan bulu cerah yang indah.</string>
+    <string name="muraibatu_nama">muraibatu</string>
+    <string name="muraibatu_asal">Medan</string>
+    <string name="muraibatu_deskripsi">burung murai batu medan merupakan burung yang di kenal sebagai teritorial dan sangat kuat dalam memperthankan wilayahnya memiliki suara kicauan yang merdu.</string>
+    <string name="kacer_nama">kacer</string>
+    <string name="kacer_asal">Asiatenggara</string>
+    <string name="kacer_deskripsi">burung kacer adalah salah satu jenis burung yang suka berkicau dengan postur tubuh yang kecil berwarna hitam putih dengan ekor yang panjang.</string>
+
+    <string name="angora_nama">Angora"</string>
+    <string name="angora_asal">Turki"</string>
+    <string name="angora_deskripsi">Aslinya berasal dari Ankara, Turki dengan ciri khas berbulu panjang dan lembut</string>
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">Inggris</string>
+    <string name="bengal_deskripsi">Merupakan hasil persilangan antara Kucing Leopard Asia dengan kucing domestik Inggris</string>
+    <string name="birmani_nama">Birmani</string>
+    <string name="birmani_asal">Birma/Myanmar</string>
+    <string name="birmani_deskripsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma"</string>
+    <string name="siam_nama">Siam</string>
+    <string name="siam_asal">Thailand</string>
+    <string name="siam_deskripsi">Kucing hasil turunan dari Wichian Maat (Kucing Thailand) dengan ciri khas berbadan panjang dan langsing, wajah lonjong, telinga lebar, dan mata kebiruan"</string>
+    <string name="persia_nama">Persia</string>
+    <string name="persia_asal">Iran</string>
+    <string name="persia_deskripsi">Kucing berbulu panjang dengan wajah bundar dan hidung pesek. Awalnya berasal dari Iran kemudian diimpor ke Italia</string>
+    <string name="siberia_nama">Siberia</string>
+    <string name="siberia_asal">Rusia</string>
+    <string name="siberia_deskripsi">Kucing domestik Rusia dengan bulu lebat dan badan besar tapi sangat lincah dan terkenal dengan kemampuan melompatnya </string>
+
+    //JUDUL
+    <string name="judul_list_anjing">DAFTAR RAS ANJING</string>
+    <string name="judul_list_burung">DAFTAR RAS BURUNG</string>
+    <string name="judul_list_kucing">DAFTAR RAS KUCING </string>
+    <string name="judul_main">Anjing burung &amp; Kucing Profil</string>
+
+    //JENIS
+    <string name="Jenis_Anjing">Anjing</string>
+    <string name="Jenis_burung">burung</string>
+    <string name="Jenis_Kucing">Kucing</string>
+
+    //STRING
+    <string name="notif">(tekan gambar untuk membuka galeri)</string>
+    <string name="anjing_burung_kucing"><![CDATA[Anjing Burung & kucing]]></string>
+    <string name="biodata">Biodata</string>
+    <string name="todo">TODO</string>
+    <string name="kacer">burung kacer adalah salah satu jenis burung yang suka berkicau dengan postur tubuh yang kecil berwarna hitam putih dengan ekor yang panjang</string>
+
+</resources>
+
